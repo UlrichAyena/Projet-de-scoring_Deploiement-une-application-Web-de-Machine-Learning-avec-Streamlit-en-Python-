@@ -15,6 +15,6 @@ Sommaire
    - Modélisation et Prediction
    - Choix du meilleur modèle
 
-
+#### Lien de l'application Web créee : https://projetscoringayenamahougnon.streamlit.app/
 
  
