@@ -5,7 +5,7 @@ import numpy as np
 import streamlit as st 
 import seaborn as sns 
 import seaborn
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import plotly.express as px
 import missingno as msno
 import tempfile
